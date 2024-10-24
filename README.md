@@ -1,2 +1,3 @@
 # Quantification-of-H9c2-cell-differentiation-
-Morphological analysis (Figure 2) of H9c2 cells across H9c2 cell differentiation. To analyze morphological features of H9c2 cells, we created a custom Matlab script: Morphology Analysis Overview A.  
+Matlab script associated to the Morphological Analysis in York et al., 2024. This serves as a reference to implement morphological analysis including length, area, perimeter, and eccentricity for cells that are irregularly shaped and close in proximety.
+
