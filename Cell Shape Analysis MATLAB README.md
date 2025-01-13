@@ -52,5 +52,4 @@ Ensure the file path in the script points to an existing image file. Update the 
 
 Author
 Mohammadreza Rahmani Manesh
-Email: mrahmanimanesh@uvic.ca
 GitHub: @MohammadrezaRM
